@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.GaussianBlur?>
+<?import javafx.scene.effect.Glow?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="end_pane" prefHeight="717.0" prefWidth="1266.0" styleClass="paneEnd" stylesheets="@../Styles/styles.css" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.EndScreenController">
+   <children>
+      <Pane onMouseDragged="#Line_Dragged" onMousePressed="#Line_Pressed" opacity="0.69" prefHeight="38.0" prefWidth="1266.0" style="-fx-background-color: white;" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+      <ImageView fx:id="minimize_btn" fitHeight="35.0" fitWidth="40.0" layoutX="1180.0" layoutY="1.0" onMouseClicked="#Minimize_Clicked" onMouseEntered="#Minimize_Hovered" pickOnBounds="true" preserveRatio="true" AnchorPane.rightAnchor="51.0" AnchorPane.topAnchor="1.0">
+         <image>
+            <Image url="/sample/Images/minimize.png" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="close_btn" fitHeight="35.0" fitWidth="32.0" layoutX="1224.0" layoutY="2.0" onMouseClicked="#Close_Clicked" onMouseEntered="#Close_Hovered" pickOnBounds="true" preserveRatio="true" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="2.0">
+         <image>
+            <Image url="/sample/Images/close.png" />
+         </image>
+      </ImageView>
+      <Text fx:id="money_check" layoutX="231.0" layoutY="599.0" strokeType="OUTSIDE" strokeWidth="0.0" text="0" textAlignment="CENTER" wrappingWidth="308.66796875">
+         <font>
+            <Font name="Bell MT" size="53.0" />
+         </font></Text>
+      <Pane layoutX="975.0" layoutY="427.0" opacity="0.54" prefHeight="255.0" prefWidth="278.0" style="-fx-background-color: black;" AnchorPane.bottomAnchor="61.0" AnchorPane.rightAnchor="13.0" AnchorPane.topAnchor="427.0">
+         <effect>
+            <GaussianBlur radius="51.75" />
+         </effect>
+      </Pane>
+      <Label fx:id="quit_lb" alignment="CENTER" contentDisplay="CENTER" layoutX="1053.0" layoutY="597.0" onMouseClicked="#Quit_Clicked" onMouseEntered="#Quit_Hovered" onMouseExited="#Quit_UnHovered" prefHeight="47.0" prefWidth="115.0" text="Изход" textFill="WHITE" AnchorPane.bottomAnchor="73.0" AnchorPane.rightAnchor="98.0" AnchorPane.topAnchor="597.0">
+         <font>
+            <Font name="Baskerville Old Face" size="39.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+         <cursor>
+            <Cursor fx:constant="NONE" />
+         </cursor>
+      </Label>
+      <Label fx:id="play_lb" alignment="CENTER" contentDisplay="CENTER" layoutX="964.0" layoutY="442.0" maxHeight="-Infinity" maxWidth="-Infinity" onMouseClicked="#Play_Clicked" onMouseEntered="#Play_Hovered" onMouseExited="#Play_UnHovered" prefHeight="47.0" prefWidth="291.0" style="-fx-font-size: 50;" text="Нова Игра" textFill="WHITE" AnchorPane.bottomAnchor="228.0" AnchorPane.rightAnchor="11.0" AnchorPane.topAnchor="442.0">
+         <font>
+            <Font name="Baskerville Old Face" size="39.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+         <cursor>
+            <Cursor fx:constant="NONE" />
+         </cursor>
+      </Label>
+      <ImageView fitHeight="215.0" fitWidth="493.0" layoutX="559.0" layoutY="510.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="/sample/Images/signature.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="main_menu_lb" alignment="CENTER" contentDisplay="CENTER" layoutX="979.0" layoutY="521.0" onMouseClicked="#Main_Menu_Clicked" onMouseEntered="#Main_Menu_Hovered" onMouseExited="#Main_Menu_UnHovered" prefHeight="47.0" prefWidth="269.0" text="Главно меню" textFill="WHITE" AnchorPane.bottomAnchor="149.0" AnchorPane.rightAnchor="18.0" AnchorPane.topAnchor="521.0">
+         <font>
+            <Font name="Baskerville Old Face" size="39.0" />
+         </font>
+         <effect>
+            <Glow />
+         </effect>
+         <cursor>
+            <Cursor fx:constant="NONE" />
+         </cursor>
+      </Label>
+      <Line fx:id="line_up" endX="100.0" layoutX="1109.0" layoutY="519.0" startX="-96.75" stroke="WHITE" style="-fx-stroke-width: 2;">
+         <effect>
+            <Glow />
+         </effect>
+      </Line>
+      <Line fx:id="line_down" endX="100.0" layoutX="1110.0" layoutY="596.0" startX="-89.75" stroke="WHITE" style="-fx-stroke-width: 2;">
+         <effect>
+            <Glow />
+         </effect>
+      </Line>
+      <Text fx:id="money_check1" layoutX="228.0" layoutY="376.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Koceff" textAlignment="CENTER" wrappingWidth="308.66796875">
+         <font>
+            <Font name="Bell MT" size="53.0" />
+         </font>
+      </Text>
+      <Text fx:id="money_check11" layoutX="223.0" layoutY="459.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Entertainment" textAlignment="CENTER" wrappingWidth="321.66796875">
+         <font>
+            <Font name="Bell MT" size="53.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
