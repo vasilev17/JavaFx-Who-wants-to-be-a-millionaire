@@ -17,7 +17,7 @@ sample.Controllers.Main
 
 At first when you launch the game you will see the **Main Menu** screen:
 
-![Image of Main menu](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/119018956_2649885165282597_1766435756098614482_n.png?_nc_cat=110&_nc_sid=b96e70&_nc_ohc=LNADfykwnCAAX99JeX_&_nc_ht=scontent.fsof9-1.fna&oh=dc6dcf34922248f8210bae58c46a0d9b&oe=5F7C27E4)
+![Image of Main menu](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/119018956_2649885165282597_1766435756098614482_n.png?_nc_cat=110&_nc_sid=ae9488&_nc_ohc=CfG_lGAOzgYAX-RPRuk&_nc_ht=scontent.fsof9-1.fna&oh=dfcc5417f01d30015abffb2efbef7e4d&oe=5FA7A964)
 
 ----------------------------------------
 Pressing the "Играй" button, located in the **Main Menu**, will take you to the "Обади се на приятел" (Call a friend) screen where you add 3 people which you can call to help you with a question later on. All people you add need to have a sphere-of-knowledge and names:
