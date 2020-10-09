@@ -27,7 +27,7 @@ Pressing the "Играй" button, located in the **Main Menu**, will take you to
 ----------------------------------------
 After you have added all of your friends you need to click the "Напред" button and the game will begin!
 
-![Image of play screen](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/119006306_1599313673563242_1340465051585041579_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=tMFMmrlYs20AX9og1jK&_nc_ht=scontent.fsof9-1.fna&oh=7227c4567d5646a6912b63da7f089842&oe=5F7B81F8)
+![Image of play screen](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/119006306_1599313673563242_1340465051585041579_n.png?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=mtvofhRkEdUAX_ONRhI&_nc_ht=scontent.fsof9-1.fna&oh=77f8d931855b69baf9acaff09b6ab96e&oe=5FA70378)
 
 In the center of your *Play-Screen* you can see the current question asked, under it there are 4 elements containing the answers, whereas on the upper right of the screen is where the *mute button* is located as well as your *lifelines* and *progress tracker*.
 
@@ -35,7 +35,7 @@ In the center of your *Play-Screen* you can see the current question asked, unde
 
 If you answer a question wrong you will jump down in progress to the last *"safety net"*. If you decide to *"take your money"* you will keep your progress and not lose any money. In both situations you will be taken to the *end-game-screen*:
 
-![Image of end game screen](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/119006306_1599313673563242_1340465051585041579_n.png?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=mtvofhRkEdUAX_ONRhI&_nc_ht=scontent.fsof9-1.fna&oh=77f8d931855b69baf9acaff09b6ab96e&oe=5FA70378)
+![Image of end game screen](https://scontent.fsof9-1.fna.fbcdn.net/v/t1.15752-9/118984158_318403372583972_7341418691522386328_n.png?_nc_cat=102&_nc_sid=ae9488&_nc_ohc=A-gePzIUnnEAX98oB1k&_nc_ht=scontent.fsof9-1.fna&oh=bcd5c0b1b774026c376311141a74b4c0&oe=5FA7D58B)
 
 ----------------------------------------
 If you are on the **Main Menu**. "Добави въпрос" is going to take you to a table which has all the questions in the current **database**:
