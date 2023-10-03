@@ -27,7 +27,7 @@ Pressing the "Играй" button, located in the **Main Menu**, will take you to
 ----------------------------------------
 After you have added all of your friends you need to click the "Напред" button and the game will begin!
 
-![Image of gameplay screen]([https://ibb.co/FqBznd5](https://i.ibb.co/h1KVCTB/119006306-1599313673563242-1340465051585041579-n.png))
+![Image of gameplay screen](https://i.ibb.co/h1KVCTB/119006306-1599313673563242-1340465051585041579-n.png)
 
 In the center of your *Play-Screen* you can see the current question asked, under it there are 4 elements containing the answers, whereas on the upper right of the screen is where the *mute button* is located as well as your *lifelines* and *progress tracker*.
 
