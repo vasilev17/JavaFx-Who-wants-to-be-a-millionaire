@@ -54,6 +54,6 @@ Adding a question means that you have a chance of encountering it later on in th
 
 
 ## Credits
-Special thank's to *https://github.com/danaildimitrov2003*  for taking part in developing the UI of the game.
+Special thanks to @danaildimitrov2003 for taking part in developing the UI of the game.
 
 
