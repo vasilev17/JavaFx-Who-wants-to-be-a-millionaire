@@ -17,7 +17,7 @@ sample.Controllers.Main
 
 At first when you launch the game you will see the **Main Menu** screen:
 
-![Image of Main menu](https://i.ibb.co/KzLCYtJ/119018956-2649885165282597-1766435756098614482-n.png)
+![Image of Main menu](https://i.ibb.co/HzGC8jT/qrwe.png)
 
 ----------------------------------------
 Pressing the "Играй" button, located in the **Main Menu**, will take you to the "Обади се на приятел" (Call a friend) screen where you add 3 people which you can call to help you with a question later on. All people you add need to have a sphere-of-knowledge and names:
@@ -45,7 +45,7 @@ If you are on the **Main Menu**. "Добави въпрос" is going to take yo
 ----------------------------------------
 You can press the "Назад" button to go back to the **Main Menu** or "Добави" to add a question to your **local database**:
 
-![Image of add question menu](https://i.ibb.co/tPLTjcD/119026378-1794525330735918-2499460216370872463-n.png) 
+![Image of add question menu](https://i.ibb.co/DbSCJ2c/test.png) 
 
 Adding a question means that you have a chance of encountering it later on in the game.
 
