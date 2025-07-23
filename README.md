@@ -13,19 +13,20 @@ sample.Controllers.Main
 ```
 
 ## Usage
-#### The game should feel pretty intuitive, especially if you have watched the show, but I will still explain how to navigate across it.
+
+### The game should feel pretty intuitive, especially if you have watched the show, but here is how to navigate it:
 
 At first when you launch the game you will see the **Main Menu** screen:
 
 <img width="1266" height="716" alt="Home Screen" src="https://github.com/user-attachments/assets/6680fff2-e849-4c29-b086-7f2eb606d5d3" />
 
-----------------------------------------
 Pressing the "Играй" button, located in the **Main Menu**, will take you to the "Обади се на приятел" (Call a friend) screen where you add 3 people which you can call to help you with a question later on. All people you add need to have a sphere-of-knowledge and names:
 
 <img width="1266" height="717" alt="Call a Friend Lifeline Screen" src="https://github.com/user-attachments/assets/866faef9-6f62-44b9-98d4-3153e7f10cad" />
 
-----------------------------------------
 After you have added all of your friends you need to click the "Напред" button and the game will begin!
+
+----------------------------------------
 
 <img width="1266" height="717" alt="Question Screen" src="https://github.com/user-attachments/assets/947feec1-c672-4dfd-a8c2-b2664d26e44f" />
 
@@ -38,11 +39,11 @@ If you answer a question wrong you will jump down in progress to the last *"safe
 <img width="1265" height="402" alt="Game Over Screen" src="https://github.com/user-attachments/assets/71761160-b4f7-4772-9f0e-db3c5931d419" />
 
 ----------------------------------------
+
 If you are on the **Main Menu**. "Добави въпрос" is going to take you to a table which has all the questions in the current **database**:
 
 <img width="1266" height="717" alt="Question Pool Screen" src="https://github.com/user-attachments/assets/0c8e0e3b-680a-4150-958e-694f30c02322" />
 
-----------------------------------------
 You can press the "Назад" button to go back to the **Main Menu** or "Добави" to add a question to your **local database**:
 
 <img width="1266" height="717" alt="New Question Input Screen" src="https://github.com/user-attachments/assets/26f5cd05-ff03-4838-9902-89e6891f9352" />
